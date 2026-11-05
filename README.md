@@ -1,2 +1,1 @@
-# py-biotools
-Software tools for analyzing bioinformatics data. 
+The analysis of biological data in a database system. 
